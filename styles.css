@@ -28,6 +28,10 @@ header ul li{
     color: #808b8b;
     font-size: 15px;
 }
+.nav-anchor:hover {
+  color: teal; /* Change this to the color you want on hover */
+  border-bottom: 4px solid teal; /* Adds an underline on hover */
+}
 
 header ul{
     display: flex;
